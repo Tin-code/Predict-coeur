@@ -1,0 +1,17 @@
+body{
+    margin: 4px;
+}
+
+input{
+    margin : 5px;
+    width: 80%;
+}
+.login{
+    background-color: lightblue;
+    border: 1px solid red;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+
+}
+
